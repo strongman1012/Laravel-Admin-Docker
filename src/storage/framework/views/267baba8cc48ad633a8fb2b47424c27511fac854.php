@@ -1,0 +1,2 @@
+<input type="hidden" name="<?php echo e($name, false); ?>" value="<?php echo e($value, false); ?>" class="<?php echo e($class, false); ?>" <?php echo $attributes; ?> />
+<?php /**PATH E:\RCHH_Works\Crowdworks\Laravel\Laravel-admin\jpf_pm\src\resources\views/laravel-admin/form/hidden.blade.php ENDPATH**/ ?>
